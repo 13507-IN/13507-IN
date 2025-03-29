@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @13507-IN
+- 👋 Hi, I’m @13507-IN (Rishiraj)
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning JavaScriopt
-- 💞️ I’m looking to collaborate on fiverr
+- 🌱 I’m currently learning Backend Developing
+- 💞️ I’m looking to collaborate on fiverr , github
 - 📫 you can find me on instagram and facebook also
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Before class 12 I don't know anything about coding
