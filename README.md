@@ -41,22 +41,22 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishiraj-Debnath&show_icons=true&theme=radical" alt="Rishiraj's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=13507-IN&show_icons=true&theme=radical" alt="Rishiraj's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishiraj-Debnath&theme=radical" alt="Rishiraj's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=13507-IN&theme=radical" alt="Rishiraj's streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiraj-Debnath&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13507-IN&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishiraj-Debnath&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Rishiraj's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=13507-IN&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Rishiraj's Trophies" />
 </p>
 
 ---
