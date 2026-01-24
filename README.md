@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishiraj Debnath</h1>
 <h3 align="center">
-Frontend-focused Web Developer | React Enthusiast | Learning Full-Stack & Web3
+Backend-focused Full Stack Web Developer | React Enthusiast | Learning Full-Stack & Web3
 </h3>
 
 <p align="center">
