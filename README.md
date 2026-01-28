@@ -73,7 +73,10 @@ Backend-focused Full Stack Web Developer | React Enthusiast | Learning Full-Stac
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=13507-IN&show_icons=true&theme=radical" height="165"/>
- <img src="https://streak-stats.demolab.com?user=13507-IN&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=13507-IN&theme=radical&cacheBust=2026" height="165"/>
 </p>
 
 <p align="center">
