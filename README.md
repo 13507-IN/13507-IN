@@ -21,13 +21,13 @@ Backend-focused Full Stack Web Developer | React Enthusiast | Learning Full-Stac
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/rishiraj-debnath-890322313/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
+<a href="https://www.instagram.com/_rishiraj_debnath_/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
 </a>
-<a href="https://www.facebook.com/YOUR-FACEBOOK" target="_blank">
+<a href="https://www.facebook.com/sajal.debnath.3576" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
 </a>
 </p>
