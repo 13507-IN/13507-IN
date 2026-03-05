@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+Enthusiast;Web3+%2F+Solidity+Explorer;Building+Campuskart+%26+InceptIQ" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+Enthusiast;Web3+%2F+Solidity+Explorer;Building+FullStack+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
   <a href="https://www.instagram.com/_rishiraj_debnath_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:rishirajnatj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-username">
+  <a href="https://x.com/DebnathRishi10">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 - 🚀 **Product Mindset:** Founder of **[Campuskart.space](https://campuskart.space)**.
-- 💡 **Innovation:** Architecting **[InceptIQ](https://incept-iq.vercel.app/)** for high-performance web.
+- 💡 **Innovation:** Architecting Full Stack Website for high-performance.
 - 🌱 **Growth:** Started coding post-Class 12 — logic > background.
 - 🔗 **Web3:** Writing Smart Contracts & exploring Ethereum/Solana ecosystems.
 
@@ -75,8 +75,8 @@
 ## 🏗️ Featured Projects
 
 ### 🧠 [InceptIQ](https://incept-iq.vercel.app/)
-*Modern performance-first web solutions.*
-- **Stack:** Next.js, TS, Tailwind, Vercel.
+*A website for Founders and Investors.*
+- **Stack:** Next.js, TS, Tailwind, Vercel, Gemini.
 
 ### 🛒 [Campuskart](https://campuskart.space)
 *The student-first marketplace ecosystem.*
