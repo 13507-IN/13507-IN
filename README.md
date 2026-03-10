@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+Enthusiast;Web3+%2F+Solidity+Explorer;Building+FullStack+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Backend+Focused;Web3+%2F+Solidity+Explorer;Building+FullStack+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
