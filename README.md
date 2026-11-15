@@ -15,7 +15,7 @@
   <a href="mailto:rishirajnatj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://campuskart.space">
+  <a href="https://campusspacee.com">
     <img src="https://img.shields.io/badge/campuskart.space-0e75b6?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -26,7 +26,7 @@
 
 | | |
 |---|---|
-| 🚀 **Founder** | Building [campuskart.space](https://campuskart.space) — a student-first marketplace ecosystem |
+| 🚀 **Founder** | Building [campuskart.space](https://campusspacee.com) — a student-first marketplace ecosystem |
 | 🧠 **Architect** | Designing full-stack systems for high-performance web applications |
 | 💡 **Self-taught** | Started coding post-Class 12 — logic over background |
 | 🔗 **Web3** | Writing smart contracts, exploring Ethereum & Solana ecosystems |
