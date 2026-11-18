@@ -103,12 +103,11 @@
 ## `// github stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=13507-IN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0e75b6&icon_color=7c3aed&text_color=c9d1d9" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=13507-IN&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=7c3aed&currStreakLabel=0e75b6" height="165px" />
+  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/stats/streak.svg" alt="GitHub Streak" width="480" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13507-IN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" height="130px" />
+  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/stats/stats.svg" alt="GitHub Stats" width="480" />
+  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/stats/languages.svg" alt="Top Languages" width="480" />
 </p>
 
 ---
