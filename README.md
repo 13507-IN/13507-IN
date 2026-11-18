@@ -109,7 +109,14 @@
   <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/stats/stats.svg" alt="GitHub Stats" width="480" />
   <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/stats/languages.svg" alt="Top Languages" width="480" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/user-stats/rpg.svg" alt="Developer RPG Sheet" width="480" />
+  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/user-stats/worth.svg" alt="GitHub Account Valuation" width="480" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/user-stats/streak.svg" alt="GitHub Streak" width="480" />
+  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/user-stats/stats.svg" alt="GitHub Stats" width="480" />
+</p>
 ---
 
 ## `// contribution graph`
