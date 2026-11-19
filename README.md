@@ -26,7 +26,7 @@
 
 | | |
 |---|---|
-| 🚀 **Founder** | Building [campuskart.space](https://campusspacee.com) — a student-first marketplace ecosystem |
+| 🚀 **Founder** | Building [campusspacee.com](https://campusspacee.com) — a student-first marketplace ecosystem |
 | 🧠 **Architect** | Designing full-stack systems for high-performance web applications |
 | 💡 **Self-taught** | Started coding post-Class 12 — logic over background |
 | 🔗 **Web3** | Writing smart contracts, exploring Ethereum & Solana ecosystems |
@@ -85,7 +85,7 @@
       <a href="https://incept-iq.vercel.app/">→ incept-iq.vercel.app</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://campuskart.space">Campuskart</a></h3>
+      <h3>🛒 <a href="https://campusspacee.com">CampusSpace</a></h3>
       <p>Student-first marketplace — buy, sell, and trade within your campus community.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -93,7 +93,7 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
       </p>
-      <a href="https://campuskart.space">→ campuskart.space</a>
+      <a href="https://campusspacee.com">→ campuskart.space</a>
     </td>
   </tr>
 </table>
