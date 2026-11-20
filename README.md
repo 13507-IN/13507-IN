@@ -103,15 +103,12 @@
 ## `// github stats`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/stats/languages.svg" alt="Top Languages" width="480" />
+  <img src="https://github-fix-by-rd.vercel.app/api/rpg?username=13507-IN&theme=cyberpunk&timezone=Asia%2FKolkata&grace_days=1" alt="RPG Character Sheet" width="480" />
+  <img src="https://github-fix-by-rd.vercel.app/api/worth?username=13507-IN&theme=cyberpunk&timezone=Asia%2FKolkata&grace_days=1" alt="GitHub Account Valuation" width="480" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/user-stats/rpg.svg" alt="Developer RPG Sheet" width="480" />
-  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/user-stats/worth.svg" alt="GitHub Account Valuation" width="480" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/user-stats/streak.svg" alt="GitHub Streak" width="480" />
-  <img src="https://raw.githubusercontent.com/13507-IN/Github-Trash/main/Github-Stats/user-stats/stats.svg" alt="GitHub Stats" width="480" />
+  <img src="https://github-fix-by-rd.vercel.app/api/streak?username=13507-IN&theme=cyberpunk&timezone=Asia%2FKolkata&grace_days=1" alt="GitHub Streak" width="480" />
+  <img src="https://github-fix-by-rd.vercel.app/api/stats?username=13507-IN&theme=cyberpunk" alt="GitHub Stats" width="480" />
 </p>
 ---
 
